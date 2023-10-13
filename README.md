@@ -217,6 +217,20 @@ A robust network is crucial:
 
 ---
 
+### Energy Management - Top 10 by Security
+
+| Rank | Product Name       | Security Features                  |
+|------|--------------------|------------------------------------|
+| 1    | Tesla Powerwall    | Encrypted Communication, Secure Boot |
+| 2    | Nest Thermostat E  | Two-Factor Authentication, Encrypted Data Storage |
+| 3    | Philips Hue Smart Plug | AES Encryption, Secure Pairing |
+| 4    | Schneider Electric Wiser | Data Encryption, Secure Web Portal |
+| 5    | Ecobee SmartSensor | Two-Factor Authentication, Encrypted Data Transfer |
+| 6    | RainMachine Sprinkler Controller | HTTPS, Secure Boot   |
+| 7    | Lutron Caseta Smart Bridge | WPA2, Secure Pairing      |
+| 8    | Belkin WeMo Insight Smart Plug | WPA/WPA2, Secure Setup |
+| 9    | Smappee Energy Monitor | Encrypted Data, Secure API    |
+| 10   | Aeotec Z-Wave Energy Meter | AES-128 Encryption, Secure Inclusion |
 
 ## 4. Advanced Technologies
 
@@ -233,23 +247,7 @@ A robust network is crucial:
 9. Install outdoor lighting.
 10. Integrate outdoor lights.
 
-### Energy Management - Top 10 by Security
-
-| Rank | Product Name       | Security Features                  |
-|------|--------------------|------------------------------------|
-| 1    | Tesla Powerwall    | Encrypted Communication, Secure Boot |
-| 2    | Nest Thermostat E  | Two-Factor Authentication, Encrypted Data Storage |
-| 3    | Philips Hue Smart Plug | AES Encryption, Secure Pairing |
-| 4    | Schneider Electric Wiser | Data Encryption, Secure Web Portal |
-| 5    | Ecobee SmartSensor | Two-Factor Authentication, Encrypted Data Transfer |
-| 6    | RainMachine Sprinkler Controller | HTTPS, Secure Boot   |
-| 7    | Lutron Caseta Smart Bridge | WPA2, Secure Pairing      |
-| 8    | Belkin WeMo Insight Smart Plug | WPA/WPA2, Secure Setup |
-| 9    | Smappee Energy Monitor | Encrypted Data, Secure API    |
-| 10   | Aeotec Z-Wave Energy Meter | AES-128 Encryption, Secure Inclusion |
-
----
-
+----
 ### Outdoor Tech - Top 10 by Security
 
 | Rank | Product Name          | Security Features                |
@@ -265,6 +263,8 @@ A robust network is crucial:
 | 9    | Sonos Outdoor Speaker  | Secure Pairing, Firmware Updates |
 | 10   | GreenIQ Smart Garden Hub | Two-Factor Authentication, Secure Cloud Storage |
 
+
+
 ### Cutting-Edge Automation
 
 1. Explore AI-powered assistants.
@@ -277,6 +277,8 @@ A robust network is crucial:
 8. Experiment with AR/VR.
 9. Implement machine learning.
 10. Explore AI-driven threat detection.
+---
+
 
 ### Cutting-Edge Automation - Top 10 by Security
 
@@ -320,5 +322,4 @@ A robust network is crucial:
 8. Consider a SIEM system.
 9. Explore AI-driven threat detection.
 10. Stay informed about emerging threats.
-
 
